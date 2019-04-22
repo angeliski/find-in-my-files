@@ -1,0 +1,24 @@
+{
+  "name": "find-in-my-files",
+  "version": "1.0.0",
+  "description": "A simple way to find files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "find-in-files": "^0.5.0",
+    "lodash": "^4.17.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeliski/find-in-my-files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeliski/find-in-my-files/issues"
+  },
+  "homepage": "https://github.com/angeliski/find-in-my-files#readme"
+}
